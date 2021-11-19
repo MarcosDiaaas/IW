@@ -144,7 +144,7 @@ h5, .h5 {
 }
 
 h6, .h6 {
-  font-size: 1rem;
+  font-size: 2rem;
 }
 
 p {
@@ -621,7 +621,7 @@ progress {
   color: #6c757d;
 }
 
-.container,
+.carr,
 .container-fluid,
 .container-xxl,
 .container-xl,
@@ -2113,6 +2113,11 @@ progress {
   --bs-table-hover-color: #fff;
   color: #fff;
   border-color: #373b3e;
+}
+
+.bg-black{
+
+ background-color: black;
 }
 
 .table-responsive {
@@ -7839,7 +7844,7 @@ textarea.form-control-lg {
 }
 
 .bg-navbar{
-background-color: rgba(70, 84, 97, 0.9);
+background-color: rgba(213, 221, 234,1);
 
 }
 
