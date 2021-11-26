@@ -1,4 +1,8 @@
-.h1margem{
-	margin-top: 2vh;
-	margin-bottom: 2vh;
+.text-white{
+
+	color: white;
+}
+
+.biggerp{
+ font-size: 1.3rem
 }
