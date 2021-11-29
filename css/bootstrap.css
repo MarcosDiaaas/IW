@@ -4070,7 +4070,7 @@ textarea.form-control-lg {
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
   line-height: 1;
-  background-color: transparent;
+  background-color: white;
   border: 1px solid transparent;
   border-radius: 0.25rem;
   transition: box-shadow 0.15s ease-in-out;
@@ -7844,7 +7844,7 @@ textarea.form-control-lg {
 }
 
 .bg-navbar{
-background-color: rgba(192, 198, 235,1);
+background-color: black;
 
 }
 
